@@ -1,0 +1,26 @@
+.homeSection {
+    position: relative;
+    z-index: -1;
+    background-image: var(--image-gradient), url(../../Assets/home-bg.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-bottom: 30px !important;
+    padding-top: 30px !important;
+  }
+ 
+  .homeContent {
+    padding: 9rem 0 2rem !important;
+    color: whitesmoke;
+    text-align: left;
+  }
+  
+  .heading {
+    font-size: 2.4em !important;
+    padding-left: 50px !important;
+  }
+  
+  .headingName {
+    font-size: 2.5em !important;
+    padding-left: 45px !important;
+  }
+  
